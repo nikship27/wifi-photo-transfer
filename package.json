@@ -1,0 +1,27 @@
+{
+  "name": "wifi-photo-transfer",
+  "version": "1.0.0",
+  "description": "Two-way photo and video transfer between phone and PC over Wi-Fi with on-the-fly ZIP streaming.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "wifi",
+    "photo-transfer",
+    "android",
+    "ios",
+    "file-transfer",
+    "local-network",
+    "zip-stream"
+  ],
+  "author": "nikship27",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikship27/wifi-photo-transfer.git"
+  },
+  "dependencies": {
+    "archiver": "^8.0.0"
+  }
+}

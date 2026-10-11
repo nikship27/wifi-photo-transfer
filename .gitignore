@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# User Data & Uploads (DO NOT COMMIT PERSONAL FILES)
+received_photos/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.mp4
+*.mov
+*.heic
+*.heif
+*.zip
+
+# Logs and runtime
+*.log
+npm-debug.log*
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
